@@ -5,6 +5,6 @@ Each exercise is followed by the solution that our group has proposed.
 
 For the solution of some exercises, you will need specific datasets that you will find inside the Data folder.
 
-The member of the group are Matteo Facchetti, Mario Damiano Russo and Mirko Frigerio.
+The members of the group are Matteo Facchetti, Mario Damiano Russo and Mirko Frigerio.
 
 Enjoy!
